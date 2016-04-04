@@ -1,3 +1,0 @@
-[mopidy.ext]
-webtouch = mopidy_webtouch:Extension
-

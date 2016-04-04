@@ -1,3 +1,0 @@
-setuptools
-Mopidy >= 2.0.0
-Pykka >= 1.2.1
