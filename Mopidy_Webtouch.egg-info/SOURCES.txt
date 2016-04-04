@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+Mopidy_Webtouch.egg-info/PKG-INFO
+Mopidy_Webtouch.egg-info/SOURCES.txt
+Mopidy_Webtouch.egg-info/dependency_links.txt
+Mopidy_Webtouch.egg-info/entry_points.txt
+Mopidy_Webtouch.egg-info/not-zip-safe
+Mopidy_Webtouch.egg-info/requires.txt
+Mopidy_Webtouch.egg-info/top_level.txt
+mopidy_webtouch/__init__.py
+mopidy_webtouch/ext.conf
