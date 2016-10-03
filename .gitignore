@@ -19,3 +19,4 @@ npm-debug.log
 .project
 *.pbxproj
 *.egg-info
+mopidy_webtouch/static
